@@ -29,8 +29,8 @@ public class MainProgram {
         // Dog barks
         // Cat meows
 
-//        home.adoptPet(dog2);
-//        home.makeAllSounds();
+       home.adoptPet(dog2);
+       home.makeAllSounds();
         // this prints:
         // Dog barks
         // Cat meows
